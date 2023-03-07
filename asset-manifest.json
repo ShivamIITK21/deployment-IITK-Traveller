@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "./static/css/main.de24954a.css",
-    "main.js": "./static/js/main.d5939a21.js",
-    "static/js/787.cda612ba.chunk.js": "./static/js/787.cda612ba.chunk.js",
-    "static/media/logo1.svg": "./static/media/logo1.f317782b770935b5d3df413346ae5887.svg",
-    "index.html": "./index.html",
-    "main.de24954a.css.map": "./static/css/main.de24954a.css.map",
-    "main.d5939a21.js.map": "./static/js/main.d5939a21.js.map",
-    "787.cda612ba.chunk.js.map": "./static/js/787.cda612ba.chunk.js.map"
+    "main.css": "/IITK-Traveller/static/css/main.de24954a.css",
+    "main.js": "/IITK-Traveller/static/js/main.57ad4dbe.js",
+    "static/js/787.cda612ba.chunk.js": "/IITK-Traveller/static/js/787.cda612ba.chunk.js",
+    "static/media/logo1.svg": "/IITK-Traveller/static/media/logo1.f317782b770935b5d3df413346ae5887.svg",
+    "index.html": "/IITK-Traveller/index.html",
+    "main.de24954a.css.map": "/IITK-Traveller/static/css/main.de24954a.css.map",
+    "main.57ad4dbe.js.map": "/IITK-Traveller/static/js/main.57ad4dbe.js.map",
+    "787.cda612ba.chunk.js.map": "/IITK-Traveller/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.de24954a.css",
-    "static/js/main.d5939a21.js"
+    "static/js/main.57ad4dbe.js"
   ]
 }
